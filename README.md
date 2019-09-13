@@ -1,6 +1,6 @@
 # Style transfer for generation of realistically textured subsurface models. Visualized and explained. 
 
-*[Ovcharenko, Oleg](https://ovcharenkoo.com/), [Vladimir Kazei](https://github.com/vkazei), [Daniel Peter](https://github.com/danielpeter), and [Tariq Alkhalifah](https://sites.google.com/a/kaust.edu.sa/tariq/home). ["Style transfer for generation of realistically textured subsurface models."](https://library.seg.org/doi/abs/10.1190/segam2019-3216349.1) In SEG Technical Program Expanded Abstracts 2019, pp. 2393-2397. Society of Exploration Geophysicists, 2019.*
+*[Ovcharenko Oleg](https://ovcharenkoo.com/), [Vladimir Kazei](https://github.com/vkazei), [Daniel Peter](https://github.com/danielpeter), and [Tariq Alkhalifah](https://sites.google.com/a/kaust.edu.sa/tariq/home). ["Style transfer for generation of realistically textured subsurface models."](https://library.seg.org/doi/abs/10.1190/segam2019-3216349.1) In SEG Technical Program Expanded Abstracts 2019, pp. 2393-2397. Society of Exploration Geophysicists, 2019.*
 
 The notebook in this repository reproduces the workflow for **texture-transfer from an elastic isotropic subsurface model to a prior synthetic distribution**. We follow the [(Gatys et al., 2015)](https://arxiv.org/abs/1508.06576) to transfer texture from a [Marmousi II](https://library.seg.org/doi/full/10.1190/1.2172306) benchmark geological model to a background distribution generated using a random Gaussian field.
 
