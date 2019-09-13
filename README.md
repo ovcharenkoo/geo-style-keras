@@ -26,13 +26,10 @@ Seeing the outputs from intermediate layers in the network leads to better under
 Enforcing the optimization to match certain areas from the style model ultimately leads to a controlled texture generation.
 ![output](img/output.png)
 
-<hr>
-
 ## How to run
-In the terminal, go to the folder with the notebook run the command
+In the terminal, go to the folder with the notebook and run the command
 
     jupyter notebook geo_style.ipynb
-<hr>
 
 ## Resources used:
 
