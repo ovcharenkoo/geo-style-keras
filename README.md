@@ -1,6 +1,6 @@
 # Style transfer for generation of realistically textured subsurface models. Visualized and explained. 
 
-*Ovcharenko, Oleg, Vladimir Kazei, Daniel Peter, and Tariq Alkhalifah. "Style transfer for generation of realistically textured subsurface models." In SEG Technical Program Expanded Abstracts 2019, pp. 2393-2397. Society of Exploration Geophysicists, 2019.*
+*Ovcharenko Oleg, Vladimir Kazei, Daniel Peter, and Tariq Alkhalifah. "Style transfer for generation of realistically textured subsurface models." In SEG Technical Program Expanded Abstracts 2019, pp. 2393-2397. Society of Exploration Geophysicists, 2019.*
 
 The notebook in this repository reproduces the workflow for **texture-transfer from an elastic isotropic subsurface model to a prior synthetic distribution**. We follow the [(Gatys et al., 2015)](https://arxiv.org/abs/1508.06576) to transfer texture from a [Marmousi II](https://library.seg.org/doi/full/10.1190/1.2172306) benchmark geological model to a background distribution generated using a random Gaussian field.
 
